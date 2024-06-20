@@ -1,0 +1,9 @@
+Project description:
+
+Developed an app using Python (Scikit Image and OpenCV) that allows users to upload an image from the device. Then applies a Canny convolutional operation and a customizable Frequency Filter using the 
+FFT (Fast Fourier Transform) to get the edges of objects in the image.
+
+Descripción del proyecto:
+
+Se desarrolló una aplicación en Python, usando las bibliotecas Scikit Image y OpenCV. Esta aplicación permite a los usuarios cargar una imagen desde el dispositivo y luego le aplica una operación convolucional
+de tipo Canny y un filtro de frecuencias personalizable que utiliza la transformada rápida de Fourier (FFT) para obtener los bordes de los objetos presentes en la imagen.
