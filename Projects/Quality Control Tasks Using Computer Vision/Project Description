@@ -1,4 +1,33 @@
 Project description:
 
+This project consists of a series of tasks that can be used for quality inspection of a product on a production line. Specifically, there are 4 different tasks: 
+
+• The first one was the detection of a pattern in a set of images of the same product using 1 photograph as a base.
+
+• The second one is the identification of a defect in a gear (an extra hole, a missing teeth, the central hole is clogged or a combination of the three)
+
+• The third task corresponds to the reading and detection of the expiration date of a product, using only 1 image for system training. In the first case, two boxes were placed
+different with the same expiration date. Then, in the second case, images with different expiration dates and products from different suppliers were used.
+
+• The fourth task is the measurement of the diameter of the perforations in a set of 7 pieces with different characteristics between them.
+
+It is important to highlight that all these tasks were solved with a Cognex brand industrial camera and with the software provided by the manufacturer.
+
+
 
 Descripción del proyecto:
+
+Este proyecto consiste en una serie de tareas que se pueden utilizar para la inspección de calidad de un producto en una línea de producción. Específicamente se tienen 4 tareas diferentes: 
+
+•	La primera es la detección de un patrón en un conjunto de imágenes de un mismo producto utilizando como base 1 fotografía.
+
+•	La segunda corresponde a la identificación de defector en un engrane (si tiene una perforación extra, si hay dientes faltantes, si el agujero central está obstruido o una combinación de las tres)
+
+•	La tercer tarea corresponde la lectura y detección de la fecha de vencimiento de un producto, utilizando solamente 1 imagen para el entrenamiento del sistema. En el primer caso se colocaron dos cajas
+diferentes con la misma fecha y en el segundo caso de estudio se colocaron imágenes con diferentes fechas de vencimiento y productos de diferentes proveedores.
+
+•	La cuarta tarea es la medición del diámetro de las perforaciones en un set de 7 piezas con características diferentes entre ellas.
+
+Además, es importante destacar que todas estas tareas se resolvieron con una cámara industrial de la marca Cognex y con el software brindado por el fabricante.
+
+
