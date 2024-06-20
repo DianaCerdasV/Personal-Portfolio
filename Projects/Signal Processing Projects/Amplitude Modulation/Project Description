@@ -1,1 +1,18 @@
+Project description:
 
+This project was solved using Python and libraries such as numpy and scipy. The tasks solved were:
+
+1) The construction of a basic DSB-SC type AM system for modulation and demodulation under optimal conditions.
+2) The introduction of controlled frequency errors and the phase shift in the carrier signal of the demodulator block to analyze the results obtained.
+3) The creation of a basic DSB-LC type AM modulator including over-modulation
+4) The implementation of an SSB system with modulator and demodulator.
+
+
+Descipción del proyecto:
+
+En este proyecto se utilizó Python y librerías como numpy y scipy, para desarrollar diversas actividades que incluyen:
+
+1) La construcción de un sistema básico AM de tipo DSB-SC para modulación y demodulación bajo condiciones óptimas.
+2) La introducción de errores controlados de frecuencia y el desfase en la señal de portadora del bloque demodulador para analizar los resultados obtenidos.
+3) La creación de un modulador básico AM de tipo DSB-LC incluyendo sobre-modulación
+4) La implementación de un sistema SSB con modulador y demodulador.
