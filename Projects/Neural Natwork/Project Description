@@ -1,0 +1,14 @@
+Project description:
+
+Constructed and trained a neural network using Python (TensorFlow) that predicted when a robot failed and classified the type of failure it had based on
+force and torque values on the equipment. Besides that a hyperparameter study was made in order to identify the best combination of: optimizer, learning rate,
+number of neurons per hidden layer, number of hidden layers and the number of training iterations. The result was a neural network with a precision of 100%, 
+recall of 100% and a F1-score of 100%.
+
+Descripción del proyecto:
+
+Se desarrolló y entrenó una red neuronal utilizando TensorFlow en Python. Esta red se encarga de predecir cuando se da un fallo enun robot y además clasificaba
+el tipo de fallo en cuatro categorías diferentes, dependiendo de los calores de fuerzas y torques presentes en el equipo. Cabe resaltar que para obtener el mejor
+resultado posible se desarrolló un estudio de hiperparámetros, de modo que se obtuviera la mejor combinación de: optimizador, tasa de aprendizaje, número de 
+neuronas por capa oculta, número de capas ocultas y la cantidad de iteraciones de entrenamiento. El resultado obtenido fue una red neuronal con una precisión de 100%, 
+recall del 100% (verdaderos positivos que son correctamente identificados) y una calificación de F1 del 100% (media armónica de la precisión y el recall (sensibilidad)).
