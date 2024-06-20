@@ -1,0 +1,39 @@
+Porject description:
+
+Built a single-cycle RISC-V microarchitecture for the RV32I Base Integer Instruction Set, which was implemented and tested on Verilog. This microarchitecture must
+excecute the following C code:
+
+#include <stdio.h>
+
+int main(){
+  int *k = 0xABCD;
+  int a = 2;
+  int b = 0;
+
+  for (int i=0; i<a; i++) {
+    b = b+3;
+  }
+}
+
+So the assembly instruction types this microarchitecture must support were: I, S, J, B, U; specifically the instructions: add, sw, li, lui, j, lw and blt.
+
+
+Descripción del proyecto:
+
+Se contruyó una microarquitectura uniciclo para el conjunto de instrucciones de enteros básicos de RV32I, la cual fue construida y verificada en Verilog. 
+Esta microarquitectura debía ser capaz de ejecutar el siguiente código en C:
+
+#include <stdio.h>
+
+int main(){
+  int *k = 0xABCD;
+  int a = 2;
+  int b = 0;
+
+  for (int i=0; i<a; i++) {
+    b = b+3;
+  }
+}
+
+Por tanto, la microarquitectura debía soportar las instrucciones de tipo I, S, J, B y U. Específicamente, debía ejecutar 
+las instrucciones: add, sw, li, lui, j, lw y blt.
