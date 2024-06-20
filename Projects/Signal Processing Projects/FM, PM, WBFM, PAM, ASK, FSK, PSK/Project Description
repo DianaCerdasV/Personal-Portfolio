@@ -1,1 +1,23 @@
+Project description:
 
+This project was solved using Python and classic libraries such as numpy and scipy, without using predesigned modules for modulation or communications.
+
+The activities that were resolved in this project include:
+1) The generation of curves for basic angle modulation systems using sinusoidal signals.
+2) The construction of a narrowband FM modulator (NBFM) and a wideband FM modulator (WBFM), with a detailed analysis of the results based on the beta parameter and its impact on the modulated signals
+in the time and frequency domain. 
+3) A pulse sampling modulation (PAM) system was also developed, which allows the user to choose the type of signal to be sampled, the sampling frequency, pulse width, as well as the recovery
+of the original signal through a filter.
+4) Signals were represented in the following modulation schemes: ASK, FSK and PSK.
+
+Descripción del proyecto:
+
+Este proyecto se utilizó Python y librerías clásicas como numpy y scipy, sin utilizar los módulos prediseñados para la modulación o comunicaciones.
+
+Las actividades que se resolvieron en este proyecto incluyen:
+1) La generación de curvas para sistemas básicos de modulación de ángulo usando señales senoidales.
+2) La construcción de un modulador FM de banda estrecha (NBFM) y uno de banda ancha (WBFM), con un análisis detallado de los resultados en función del parámetro beta y su impacto en las señales moduladas
+en el dominio del tiempo y la frecuencia. 
+3) También se desarrolló un sistema de modulación por muestreo de pulsos (PAM), que permita al usuario elegir el tipo de señal a muestrear, la frecuencia de muestreo y el ancho del pulso, así como la recuperación
+de la señal original mediante un filtro.
+4) Se representaron señales en los siguientes esquemas de modulación: ASK, FSK y PSK.
