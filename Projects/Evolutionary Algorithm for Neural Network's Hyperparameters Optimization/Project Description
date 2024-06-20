@@ -1,0 +1,9 @@
+Porject description:
+
+Developed a genetics algorithm with Python that optimizes the hyperparameters of a neural network. The neural network is responsible for predicting the movements 
+of a robot based on the values provided by 15 sensors placed around the robot.
+
+Descripción del proyecto:
+
+Se desarrolló un algoritmo genético utilizando Python para optimizar los hiperparámetros de una red neuronal. A su vez, esta red neuronal se encarga de predecir 
+los movimientos de un robot de acuerdo con los valores obtenidos de 15 sensores que se encuentran alrededor de todo el robot.
