@@ -1,0 +1,8 @@
+Project description:
+Designed a chess game assistant with a graphic interface programmed with Python that was executed from a Rasberry-pi powered with Linux operating system.
+Besides, this code programmed a real-life automated chessboard controlled by an ESP32 microcontroller.
+
+Descripción del proyecto:
+Se diseñó un asistente de juego de ajedrez programado en Python con una interfaz gráfica. El programa era ejecutado en una Raspberry-pi con sistema operativo Linux.
+Además, este código se utilizó para programar y controlar en tiempo real un tablero de ajedrez automático, el cual era controlado por un un microcontrolador 
+de tipo ESPE32.
