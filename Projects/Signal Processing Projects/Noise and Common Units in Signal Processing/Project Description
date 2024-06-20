@@ -1,3 +1,22 @@
-Project Description:
+Project description:
 
-Descripción del proyecto:
+This project includes a series of tasks such as: 
+
+1) Developing a routine to convert between different types of decibels (dBW, dBm, dBu), asking the user for the type of conversion and the value to convert.
+2) Creating a routine to generate and compare clean curves (sawtooth, square, sine) with their noisy versions, where the user selects the type of curve
+and the noise level (low, medium, high) as desired.
+3) Making three routines to calculate variables related to noise: thermal noise in dB (requesting temperature and bandwidth), percentage of harmonic distortion 
+(requesting number of harmonics and rms values), and conditions in a non-ideal amplifier (calculating S/N at the output and input in dB, noise factor and noise figure, with data 
+signal power and input noise, power gain and internal noise).
+
+
+Descripción del proyecto: 
+
+Este proyecto incluye una serie de tareas como lo son: 
+
+1) Desarrollar una rutina para convertir entre diferentes tipos de decibeles (dBW, dBm, dBu), solicitando al usuario el tipo de conversión y el valor a convertir.
+2) Crear una rutina para generar y comparar curvas limpias (diente de sierra, cuadrada, senoidal) con sus versiones ruidosas, donde el usuario selecciona el tipo de curva
+y el nivel de ruido (bajo, medio, alto) según lo desee.
+3) Realizar tres rutinas para calcular variables relacionadas con el ruido: ruido térmico en dB (solicitando temperatura y ancho de banda), porcentaje de distorsión armónica 
+(solicitando número de armónicos y valores rms), y condiciones en un amplificador no ideal (calculando S/N a la salida y entrada en dB, factor de ruido y cifra de ruido, con datos 
+de potencia de señal y ruido de entrada, ganancia de potencia y ruido interno).
