@@ -1,1 +1,20 @@
+Project description:
 
+This project explores two key areas of signal processing: frequency analysis of human speech and digital filtering of composite signals. 
+
+Voice processing:
+In this case, the frequencies of the human voice for men and women are determined by recording vowels (a, e, i, o, u) using the Audacity application and Python.
+
+Digital filters:
+A signal composed of three frequencies was generated. Subsequently, a series of FIR and IIR filters were designed to recover each of the frequencies present in the combined signal.
+
+
+Descripción del proyecto:
+
+En este proyecto se exploran dos áreas clave del procesamiento de señales: el análisis de frecuencias de voz humana y el filtrado digital de señales compuestas. 
+
+Procesamiento de voz:
+En este caso se determinan las frecuencias de la voz humana para hombres y mujeres mediante la grabación de vocales (a, e, i, o, u) usando la aplicación Audacity y Python.
+
+Filtros digitales:
+Se generó una señal compuesta por tres frecuencias. Posteriormente se diseñaron una serie de filtros FIR e IIR para recuperar cada una de las frecuencias presentes en la señal combinada.
