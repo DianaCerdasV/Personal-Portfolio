@@ -5,4 +5,4 @@ Besides, this code programmed a real-life automated chessboard controlled by an 
 Descripción del proyecto:
 Se diseñó un asistente de juego de ajedrez programado en Python con una interfaz gráfica. El programa era ejecutado en una Raspberry-pi con sistema operativo Linux.
 Además, este código se utilizó para programar y controlar en tiempo real un tablero de ajedrez automático, el cual era controlado por un un microcontrolador 
-de tipo ESPE32.
+de tipo ESP 32.
